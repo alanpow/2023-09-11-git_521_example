@@ -5,3 +5,7 @@ For 521 Week 2 repository creation example
 - 'commit -m "MESSAGE"': commit with a message everything in the staging area
 - 'push <WHERE> <WHAT>': pushes the history/commits to the remote (where) using the commits from the specified branch (what)
 - 'pull <WHERE> <WHAT>': pulls (updates) the local repo with comments in the remote (where) using the information in the specified branch (what)
+- <git log>
+    - <git log --oneline>
+        - this may open a terminal program called "less" that ets you scroll (collon bottome left hand corner)
+        - Use 'q' to quit out of less
